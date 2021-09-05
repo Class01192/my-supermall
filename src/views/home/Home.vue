@@ -34,7 +34,7 @@ import TabContral from '@/components/content/tabControl/TabControl.vue'
 import GoodsList from '@/components/content/good/GoodsList'
 import Scroll from '@/components/common/scroll/Scroll.vue'
 import BackTop from '@/components/content/backtop/BackTop.vue';
-
+这里时用来测试的
 // 这里放网络请求
 import {getHomeMultidate,getHomeGoods} from '@/network/home'     //如果模块中导出没有default,则导入时需要加{}
 
